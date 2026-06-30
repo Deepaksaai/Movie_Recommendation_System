@@ -1,0 +1,10 @@
+                Tag Genome
+                     │
+                     ▼
+               Shared Encoder
+                     │
+            Movie Embedding
+             ▲             ▲
+             │             │
+      Reconstruction   Triplet Loss
+           Loss        (MovieLens)
