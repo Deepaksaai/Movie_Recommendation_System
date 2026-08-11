@@ -388,7 +388,7 @@ If using TMDB posters, configure the TMDB API key as an environment variable, fo
 TMDB_API_KEY=your_api_key
 ```
 
-> Do not commit API keys to the repository.
+
 
 ---
 
