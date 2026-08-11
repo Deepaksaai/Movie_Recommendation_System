@@ -65,3 +65,18 @@ MovieLens + Tag Genome
                      │
                      ▼
                Streamlit UI
+
+##Features
+
+1084-dimensional Tag Genome movie representations
+Autoencoder-based dimensionality reduction to 64 dimensions
+Triplet-loss fine-tuning using MovieLens user interactions
+Transformer-based sequential user embeddings
+FAISS approximate nearest-neighbor retrieval
+PPO-based recommendation re-ranking
+Relevance and diversity-aware recommendation environment
+Top-rated movie history visualization
+TMDB movie posters and metadata
+Interactive Streamlit application
+Existing-user recommendation demo
+Movie-selection interface for building a new user profile
